@@ -22,4 +22,4 @@ Once in the `ZenHub` tab, there is a menu on the side panel. Click on the `Board
 
 ### ZenHub Roadmap
 
-Similary to the `Board` view, there is a `Roadmap` view in the side panel. This gives the highest level view of the baseline project. The hierarchy shown here is: Projects --> Epics --> Issues. Projects simply labels to categorize Epics. The timeline shows estimated start and end dates for each epic. The timeline is not a strict deadline, but more of a guideline so the community knows when to roughly expect new features.
+Similary to the `Board` view, there is a `Roadmap` view in the side panel. This gives the highest level view of the baseline project. The hierarchy shown here is: Projects --> Epics --> Issues. Projects are simply labels that categorize Epics. The timeline shows estimated start and end dates for each epic. The timeline is not a strict deadline, but more of a guideline so the community knows when to roughly expect new features.
