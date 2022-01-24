@@ -1,6 +1,6 @@
 # Welcome to the baseline-roadmap
 
-**The baseline-roadmap repo has been archived as agreed upon by the TSC, Core Devs, and Outreach Teams. Baseline repos will be added as a deliverable in the main repo going forward, with working groups utilizing the corresponding repos and google drives for the tracking of their work.**
+**The baseline-roadmap repo has been archived as agreed upon by the TSC, Core Devs, and Outreach Teams. Baseline roadmaps will be added as a deliverable in the main repo going forward, with working groups utilizing the corresponding repos and google drives for the tracking of their work.**
 
 This repo provides visibility into the baseline protocol activities and expected timelines through epics and issues organized via ZenHub. This repo is linked to the [baseline protocol](https://github.com/ethereum-oasis/baseline) code repo so issues there will show up here as well. If you do not already have the ZenHub plugin for Github, you can find instructions for how to use it [here](https://github.com/marketplace/zenhub).
 
